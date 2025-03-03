@@ -1,0 +1,13 @@
+# install command for conda: 
+# conda install --yes --file requirements.txt
+
+# ml libraries
+numpy
+torch 
+torchvision
+notebook
+requests 
+
+# plotting
+matplotlib
+
